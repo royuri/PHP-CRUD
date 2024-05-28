@@ -7,3 +7,4 @@ PHP application that performs crud operations
 Create a table named *crud* inside your MySQL database using the following code.
 
 ```sql
+```
