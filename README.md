@@ -13,6 +13,6 @@ CREATE TABLE `crud` (
   `last_name` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
   `gender` varchar(255) NOT NULL,
-  
+  PRIMARY KEY (`id`)
 )
 ```
