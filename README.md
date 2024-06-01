@@ -9,5 +9,6 @@ Create a table named *crud* inside your MySQL database using the following code
 ```sql
 CREATE TABLE `crud` (
   `id` int(255) NOT NULL,
+  `first_name` varchar(255)
 )
 ```
