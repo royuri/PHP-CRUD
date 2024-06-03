@@ -16,5 +16,3 @@ CREATE TABLE `crud` (
 ```
 
 ### ****Copy files to htdocs folder****
-
-Download the above files. Create a folder named *crud* inside *htdocs* folder in *xampp* 
