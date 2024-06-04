@@ -1,4 +1,4 @@
-#  PHP CRUD App Built
+#  PHP CRUD App
 
 ### ****Creating the Database Table****
 
