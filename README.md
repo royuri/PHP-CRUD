@@ -14,5 +14,3 @@ CREATE TABLE `crud` (
   PRIMARY KEY (`id`)
 )
 ```
-
-### ****Copy files 
