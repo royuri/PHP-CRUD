@@ -15,4 +15,4 @@ CREATE TABLE `crud` (
 )
 ```
 
-### ****Copy files to htdocs folder****
+### ****Copy files 
