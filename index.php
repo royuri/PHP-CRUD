@@ -21,7 +21,7 @@ include "db_conn.php";
 
 <body>
   <nav class="navbar navbar-light justify-content-center fs-3 mb-5" style="background-color: #c36;">
-    My CRUD App
+    CRUD App
   </nav>
 
   <div class="container">
