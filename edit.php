@@ -43,7 +43,7 @@ if (isset($_POST["submit"])) {
 
 <body>
   <nav class="navbar navbar-light justify-content-center fs-3 mb-5" style="background-color: #c36;">
-    CRUD 
+    CRUD APP
   </nav>
 
   <div class="container">
